@@ -1,1 +1,5 @@
-Olá.
+public class Exemplo03 {
+  Public static void main(String[] args) {
+    System.out.println("Hello Git");
+  }
+}
